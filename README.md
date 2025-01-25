@@ -30,7 +30,7 @@ To use this program, you need the following:
 ## How to Use
 1. Install the required packages by running:
    ```bash
-   pip install re dns.resolver
+   pip install dnspython
    ```
 2. Download the program file.
 3. Run the program and enter the email you want to validate.
